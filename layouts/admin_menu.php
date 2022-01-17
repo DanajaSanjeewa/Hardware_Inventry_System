@@ -58,4 +58,15 @@
         <li><a href="daily_sales.php">Daily sales</a> </li>
       </ul>
   </li>
+  <li>
+    <a href="#" class="submenu-toggle">
+      <i class="glyphicon glyphicon-th-large"></i>
+       <span>Master</span>
+      </a>
+      <ul class="nav submenu">
+        <li><a href="categorie.php">Category </a></li>
+        <li><a href="Brand.php">Brand </a></li>
+        <li><a href="Model.php">Model </a> </li>
+      </ul>
+  </li>
 </ul>
